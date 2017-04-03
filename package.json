@@ -1,0 +1,22 @@
+{
+  "name": "alexa_songs",
+  "version": "1.0.0",
+  "description": "alexa song app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlandows/alexa_songs.git"
+  },
+  "author": "rob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlandows/alexa_songs/issues"
+  },
+  "homepage": "https://github.com/rlandows/alexa_songs#readme",
+  "dependencies": {
+    "alexa-app": "^4.0.0"
+  }
+}
